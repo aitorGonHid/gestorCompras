@@ -1,0 +1,12 @@
+-ID:\Archivos
+-IC:\Users\aitor\Desktop\codelite\gestorCompras\gestorCompras
+-IC:\Users\aitor\Desktop\codelite\gestorCompras\gestorCompras\include
+-I"D:\Archivos de programa\MinGW\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++"
+-I"D:\Archivos de programa\MinGW\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\x86_64-w64-mingw32"
+-I"D:\Archivos de programa\MinGW\lib\gcc\x86_64-w64-mingw32\5.1.0\include\c++\backward"
+-I"D:\Archivos de programa\MinGW\lib\gcc\x86_64-w64-mingw32\5.1.0\include"
+-I"D:\Archivos de programa\MinGW\include"
+-I"D:\Archivos de programa\MinGW\lib\gcc\x86_64-w64-mingw32\5.1.0\include-fixed"
+-I"D:\Archivos de programa\MinGW\x86_64-w64-mingw32\include"
+-target
+x86_64-pc-windows-gnu
